@@ -52,7 +52,7 @@ APIGateway -- 4. JWT signature 확인 --> APIGateway
 APIGateway -- 5. Access Resource --> Service
 ```
 
-## 참고
+## :pencil: Reference
 
 * [https://incheol-jung.gitbook.io/docs/q-and-a/infra/jwt](https://incheol-jung.gitbook.io/docs/q-and-a/infra/jwt)
 * [https://pronist.dev/143#%EB%8D%94%20%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC-1](https://pronist.dev/143#%EB%8D%94%20%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC-1)

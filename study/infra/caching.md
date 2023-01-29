@@ -63,7 +63,7 @@ Cache -- Update Regularly --> Database
   * LFU(Least Frequently Used): 가장 적게 사용된 데이터를 삭제
   * FIFO(First In First Out): 먼저 들어온 데이터를 삭제
 
-## 참고
+## :pencil: Reference
 
 {% embed url="https://fastcampus.co.kr/dev_online_bedata" %}
 

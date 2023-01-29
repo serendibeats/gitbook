@@ -61,7 +61,7 @@ Server1 -- Session 생성/조회 --> Redis
 Server2 -- Session 생성/조회 --> Redis
 ```
 
-## Reference
+## :pencil: Reference
 
 {% embed url="https://fastcampus.co.kr/dev_online_bedata" %}
 
