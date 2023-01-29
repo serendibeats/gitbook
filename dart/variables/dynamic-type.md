@@ -1,4 +1,4 @@
-# #1.2 Dynamic Type
+# Dynamic Type
 
 {% code title="var type without value" overflow="wrap" lineNumbers="true" %}
 ```dart
@@ -44,3 +44,9 @@ void main() {
 * data가 어떻게 생겼는지 모른다면, dynamic을 이용하면 된다.
 * dynamic data의 type을 체크해준다면, dart는 data의 type이 무엇인지 알 수 있다.
 * Not Recommended, 어쩔수 없을때만 쓴다.
+
+## :gift: Advertisement
+
+{% embed url="https://link.coupang.com/a/NDDuy" %}
+"이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
+{% endembed %}

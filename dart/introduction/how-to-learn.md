@@ -1,4 +1,4 @@
-# #0.2 How To Learn
+# How To Learn
 
 {% embed url="https://dartpad.dev/?" %}
 [https://dartpad.dev/?](https://dartpad.dev/?)
@@ -14,4 +14,10 @@ VSCode
 
 {% embed url="https://docs.flutter.dev/development/tools/vs-code" %}
 Flutter development with VSCode
+{% endembed %}
+
+## :gift: Advertisement
+
+{% embed url="https://link.coupang.com/a/NDDuy" %}
+"이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
 {% endembed %}
