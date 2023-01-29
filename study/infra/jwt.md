@@ -57,3 +57,9 @@ APIGateway -- 5. Access Resource --> Service
 * [https://incheol-jung.gitbook.io/docs/q-and-a/infra/jwt](https://incheol-jung.gitbook.io/docs/q-and-a/infra/jwt)
 * [https://pronist.dev/143#%EB%8D%94%20%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC-1](https://pronist.dev/143#%EB%8D%94%20%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC-1)
 * [https://pronist.tistory.com/145](https://pronist.tistory.com/145)
+
+## :gift: Advertisement
+
+{% embed url="https://link.coupang.com/a/NDDuy" %}
+"이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
+{% endembed %}
