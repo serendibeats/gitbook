@@ -34,8 +34,3 @@
     * [Defining a function](dart/functions/defining-a-function.md)
     * [Named Parameters](dart/functions/named-parameters.md)
     * [Optional Positional Parameters](dart/functions/optional-positional-parameters.md)
-    * [QQ Operator](dart/functions/qq-operator.md)
-    * [Typedef](dart/functions/typedef.md)
-  * [Classes](dart/classes.md)
-* [Flutter](flutter.md)
-* [Tiktok Clone](tiktok-clone.md)
