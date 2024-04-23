@@ -13,5 +13,3 @@ LinkedIn: [https://www.linkedin.com/in/yongsun-sean-hong-b166b31b](https://www.l
 ### :desktop: Channel
 
 Blog: [https://serendibeats.gitbook.io/blog](https://serendibeats.gitbook.io/blog)
-
-Github: [https://github.com/serendibeats](https://github.com/serendibeats)

@@ -60,9 +60,3 @@ void main() {
 
 * NamedParameter의 default 값을 지정하지 않고, 무조건 사용자로부터 값을 받고 싶다면 required keyword를 사용한다.
 * required keyword가 적용된 NameParameter의 값을 주지 않는다면 Compile 시에 에러가 뜬다.
-
-## :gift: Advertisement
-
-{% embed url="https://link.coupang.com/a/NDDuy" %}
-"이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
-{% endembed %}
