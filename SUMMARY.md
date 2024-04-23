@@ -5,8 +5,8 @@
 ## STUDY
 
 * [Kubernetes](study/kubernetes/README.md)
-  * [Kubernetes Cluster](study/kubernetes/kubernetes-cluster/README.md)
-    * [Container Runtimes](study/kubernetes/kubernetes-cluster/container-runtimes.md)
+  * [Cluster Setup](study/kubernetes/cluster-setup/README.md)
+    * [Container Runtimes](study/kubernetes/cluster-setup/container-runtimes.md)
 * [Infra](study/infra/README.md)
   * [Session](study/infra/session.md)
   * [Caching](study/infra/caching.md)
